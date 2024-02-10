@@ -1,9 +1,9 @@
 todoList = [
     {item: 'Buy Milk', 
-    dueDate: '12/02/2024',
+    dueDate: '2024-02-11',
     time: '07:30', },
     {item: 'Go to College', 
-    dueDate: '12/02/2024',
+    dueDate: '2025-03-08',
     time: '08:30', }
 ];
 displayTodo();
